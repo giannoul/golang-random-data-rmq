@@ -150,3 +150,11 @@ root@f5d3ab810c44:/src# tree
     `-- rda
         `-- random_data_api.go
 ``` 
+
+## Resources
+* https://www.cloudamqp.com/blog/part1-rabbitmq-for-beginners-what-is-rabbitmq.html 
+* https://hevodata.com/learn/rabbitmq-exchange-type/
+* https://www.rabbitmq.com/vhosts.html
+* https://www.rabbitmq.com/tutorials/tutorial-one-go.html
+* https://www.rabbitmq.com/tutorials/tutorial-three-go.html
+* https://www.rabbitmq.com/tutorials/tutorial-four-go.html 
